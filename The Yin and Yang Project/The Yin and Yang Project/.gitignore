@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# Operating System Files
+Desktop.ini
+$RECYCLE.BIN/
+
+# Build directories
+/dist/
+/build/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Miscellaneous
+*.swp
+*.swo
